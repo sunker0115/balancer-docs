@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-01 14:56:34
- * @LastEditTime: 2020-12-01 16:56:27
+ * @LastEditTime: 2020-12-01 17:14:06
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /docs/summary.md
@@ -21,15 +21,15 @@
 * [核心概念 - Core Concepts](protocol/concepts.md)
 * [智能订单路由 - SOR](protocol/sor.md)
 * [BPTs](protocol/btoken.md)
-* [BAL - Balancer Governance Token](protocol/bal-balancer-governance-token.md)
+* [治理代币 - BAL - Balancer Governance Token](protocol/bal-balancer-governance-token.md)
 * [BAL 流动性挖矿 - BAL Liquidity Mining](protocol/bal-liquidity-mining/README.md)
-  * [交易和奖励列表 - Exchange and Reward Listing](protocol/bal-liquidity-mining/exchange-and-reward-listing.md)
+  * [兑换和奖励列表 - Exchange and Reward Listing](protocol/bal-liquidity-mining/exchange-and-reward-listing.md)
 * [局限性 - Limitations](protocol/limitations.md)
 * [公式 - Math](protocol/index/README.md)
   * [指数 - Exponentiation](protocol/index/approxing.md)
 * [安全 - Security](protocol/security/README.md)
   * [审计 - Audits](protocol/security/audits.md)
-  * [Bug 奖金 - Bug Bounty](protocol/security/bounty.md)
+  * [Bug 奖励 - Bug Bounty](protocol/security/bounty.md)
 
 ## 智能合约-Smart Contracts
 
@@ -54,7 +54,7 @@
 * [Testing on Kovan](guides/testing-on-kovan.md)
 * [交易 - Making a Trade](guides/making-a-trade.md)
 * [创建共享池 - Creating a Shared Balancer Pool](guides/creating-a-balancer-pool.md)
-* [通过Etheerscan提供流动性 - Withdrawing Liquidity via Etherscan](guides/withdrawing-liquidity-via-etherscan.md)
+* [通过Etherscan提供流动性 - Withdrawing Liquidity via Etherscan](guides/withdrawing-liquidity-via-etherscan.md)
 * [CRP 教程 - CRP Tutorial](guides/crp-tutorial.md)
 * [流动性引导常见问题 - Liquidity Bootstrapping FAQ](guides/liquidity-bootstrapping-faq.md)
 * [流动性引导例子 - Liquidity Bootstrapping Example](guides/liquidity-bootstrapping.md)
