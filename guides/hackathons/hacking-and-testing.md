@@ -1,5 +1,5 @@
 ---
-description: Some useful specifics to get you started
+描述：一些有用的细节可以帮助你开始 - description: Some useful specifics to get you started
 ---
 
 # Hacking & Testing
@@ -9,6 +9,12 @@ The [contracts are opensource](https://github.com/balancer-labs/balancer-core) a
 We use the Subgraph to make it easy to query data \(Repo: [balancer-subgraph](https://github.com/balancer-labs/balancer-subgraph)\). 
 
 There are also apps for Pool Management and Token Exchanges. The source code for these are also available \([Exchange](https://github.com/balancer-labs/balancer-exchange), [Pool Management](https://github.com/balancer-labs/pool-management)\).
+
+[合约是开源的](https://github.com/balancer-labs/balancer-core)所有的东西都部署在Kovan和Mainnet上。
+
+我们使用Subgraph来方便查询数据\(Repo:[balancer Subgraph](https://github.com/balancer-labs/balancer-subgraph)\).
+
+还有一些用于池管理和令牌交换的应用程序。它们的源代码也可用 \([Exchange](https://github.com/balancer-labs/balancer-exchange)，[池管理](https://github.com/balancer-labs/pool-management)\).
 
 #### Kovan
 
