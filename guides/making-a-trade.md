@@ -1,4 +1,4 @@
-# Making a Trade
+# 做一个交易 - Making a Trade
 
 WIP
 
